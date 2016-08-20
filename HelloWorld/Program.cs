@@ -11,7 +11,7 @@ namespace HelloWorld
 
         public static string CheckHelloWorld()
         {
-            return "Hello world";
+            return "Hello World";
         }
     }
 }
